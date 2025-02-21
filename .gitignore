@@ -73,3 +73,30 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 Temp/
+
+My project/Library/Artifacts
+
+
+My project/Library/Bee/
+
+My project/Library/ArtifactDB
+
+My project/Logs/
+
+My project/UpgradeLog.htm
+
+My project/Library/StateCache
+
+My project/Library/EditorSnapSettings.asset
+
+My project/Library/ScriptAssemblies/Assembly-CSharp.dll
+
+My project/Library/EditorInstance.json
+
+My project/Library/expandedItems
+
+My project/Library/ShaderCache/
+
+My project/obj/Debug/
+
+My project/obj/Release/
